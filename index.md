@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Msb3 blog: Welcome to our blog where we publish our progress on the msb3 project!
 ---
 
